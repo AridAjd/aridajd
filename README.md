@@ -52,6 +52,8 @@
 
 <h2 align="center">TᕼᗩᑎK YOᑌ ᖴOᖇ ᖇEᗩᗪIᑎG, ᕼᗩᐯE ᗩ GᖇEᗩT ᗪᗩY! 👋</h2>
 <br>
-<img src="https://media.tenor.com/bto5N16vmJ8AAAAd/luffy-meydsama.gif" align="left" height="300" width="550"/>
-<img src="https://64.media.tumblr.com/6827ca13ffe7048d15438b3ce3dc017f/tumblr_pv04lpujh01vs1b7ho3_r1_540.gif" align="right" height="300" width="550"/>
+<div align="center" width="400" height="200">
+<img src="https://media.tenor.com/bto5N16vmJ8AAAAd/luffy-meydsama.gif"/><br><br><br>
+<img src="https://64.media.tumblr.com/6827ca13ffe7048d15438b3ce3dc017f/tumblr_pv04lpujh01vs1b7ho3_r1_540.gif"/>
+</div>
 <br>
