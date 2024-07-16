@@ -34,8 +34,8 @@
 <h2 align="center">📈 STᗩTS 📉</h2>
 <br>
 <div align="center">
-<img alt="Arid's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aridajd&show_icons=true"/>
-<img alt="Arid's Programming Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridajd&layout=compact"/>
+<img alt="Arid's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aridajd&show_icons=true&include_orgs=true"/>
+<img alt="Arid's Programming Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aridajd&layout=compact&include_orgs=true"/>
 <br><br>
 </div>
 <br><br>
